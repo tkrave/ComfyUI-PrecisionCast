@@ -1,5 +1,5 @@
 # ComfyUI-PrecisionCast
-<<<<<<< HEAD
+
 A node that allows you to manually change image data precision formats (`Float32`, `Float16`, `BFloat16`) inside ComfyUI and view image data types for troubleshooting.
 =======
 
@@ -40,4 +40,3 @@ Clone this repository:
 git clone https://github.com
 ```
 Restart your ComfyUI server to load the nodes.
->>>>>>> db3b66f (Initial commit of precision cast nodes and readme)
